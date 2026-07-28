@@ -1,0 +1,10 @@
+{
+  "name": "shortform-limit-coach",
+  "version": "1.0.0",
+  "private": true,
+  "description": "숏폼(쇼츠/릴스/틱톡) 사용 문제를 입력하면 Gemini API가 제한 강도에 맞는 설정과 예상 절약 시간을 설계해주는 웹앱",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
